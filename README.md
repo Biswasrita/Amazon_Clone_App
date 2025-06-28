@@ -32,8 +32,7 @@ A responsive front-end clone of the Amazon India homepage, built using HTML and 
 
 **Biswasrita Hazra**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswasrita-hazra-947570349/)
 
 ## 📄 License
 
