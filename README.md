@@ -5,7 +5,7 @@ A responsive front-end clone of the Amazon India homepage, built using HTML and 
 ## 🔗 Live Demo
 
 Check out the live version here:  
-👉 [View Live](https://your-live-demo-link.com)
+👉 [View Live](https://amazon-clone-app-git-main-biswasritas-projects.vercel.app)
 
 
 
