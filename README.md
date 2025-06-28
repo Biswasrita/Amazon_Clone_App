@@ -2,10 +2,10 @@
 
 A responsive front-end clone of the Amazon India homepage, built using HTML and CSS. This project replicates the basic structure and layout of Amazon, including navbar, search bar, hero section, product boxes, and footer.
 
-## 🔗 Live Demo
+ 
+## 🔗 Check out the work here: 
 
-Check out the live version here:  
-👉 [View Live](https://amazon-clone-app-git-main-biswasritas-projects.vercel.app)
+👉 [View work](https://amazon-clone-app-git-main-biswasritas-projects.vercel.app)
 
 
 
